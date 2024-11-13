@@ -1,4 +1,4 @@
-package taehunkim;
+package taehunkim.problems;
 
 import java.util.Scanner;
 
